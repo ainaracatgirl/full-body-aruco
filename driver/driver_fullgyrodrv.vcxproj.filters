@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Driver\TrackerDevice.cpp">
+      <Filter>Source Files\Driver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Driver\VRDriver.cpp">
+      <Filter>Source Files\Driver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Native\DriverFactory.cpp">
+      <Filter>Source Files\Native</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Driver\DeviceType.hpp">
+      <Filter>Header Files\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Driver\IVRDevice.hpp">
+      <Filter>Header Files\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Driver\IVRDriver.hpp">
+      <Filter>Header Files\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Driver\TrackerDevice.hpp">
+      <Filter>Header Files\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Driver\VRDriver.hpp">
+      <Filter>Header Files\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\driver_files\src\Native\DriverFactory.hpp">
+      <Filter>Header Files\Native</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C42D4193-57E0-3E64-BE96-ADB508BC4EDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Driver">
+      <UniqueIdentifier>{AF3D66F3-369D-3294-BD71-7A8C1A459DC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Native">
+      <UniqueIdentifier>{864D507A-451F-3099-97BA-ED69AC01C32F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0DA27059-3469-35FE-812C-A563535B746E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Driver">
+      <UniqueIdentifier>{15ABD080-8146-3A03-87F7-987883833DB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Native">
+      <UniqueIdentifier>{98A2A15D-0657-34CA-AAEA-303FC8AFFA94}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

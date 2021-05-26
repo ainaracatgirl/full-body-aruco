@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jancr\Desktop\projects\fullgyro\driver\CMakeFiles\3af7e0bbba549a3a7cd2e082308ce839\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F1D6D96F-69E7-3CCA-838C-6FA162458A84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

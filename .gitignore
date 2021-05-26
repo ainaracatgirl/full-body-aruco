@@ -1,3 +1,9 @@
 .idea
 __pycache__
 markers
+.vs
+CMakeFiles
+Debug
+CMakeCache.txt
+driver_fullgyrodrv.dir
+driver/libraries/*/samples
